@@ -3,4 +3,4 @@ import sys
 
 print "oh what a day"
 
-sys.exit(55)
+#sys.exit(55)
